@@ -1,0 +1,1 @@
+nohup python3 down_bot.py >> bot.log &>/dev/null &
